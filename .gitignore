@@ -1,0 +1,28 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# SBT
+target/
+project/target/
+project/project/
+
+# ローカル設定ファイル
+*.log
+*.class
+
+# コンパイル結果や一時ファイル
+*.class
+*.log
+*.swp
+*.swo
+
+# OS固有のファイル
+.DS_Store
+Thumbs.db
+
+# SBTの依存関係キャッシュ
+.lib/
+.cache/
+
+.bsp/
